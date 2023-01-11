@@ -1,6 +1,6 @@
 # Best Practice for Cypress Web Testing: Adding Intermediate Assertions
 
-> This text was produced by ChatGPT with co-authorship by Walmyr Lima and Silva Filho.
+> This text was produced by [ChatGPT](https://chat.openai.com/) with co-authorship by [Walmyr Lima e Silva Filho](https://walmyr.dev).
 
 ___
 
