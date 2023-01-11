@@ -1,5 +1,9 @@
 # Best Practice for Cypress Web Testing: Adding Intermediate Assertions
 
+> This text was produced by ChatGPT with co-authorship by Walmyr Lima and Silva Filho.
+
+___
+
 As a web developer or QA tester, you're likely familiar with using Cypress to automate your web testing. One best practice that can make your tests more robust and user-friendly is adding intermediate assertions between getting elements and interacting with them.
 
 For example, let's say you want to test a login form where the user enters a password. Instead of writing a test like this:
